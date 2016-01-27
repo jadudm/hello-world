@@ -114,9 +114,9 @@ main (int argc, char *argv[])
        [Note: For best viewing results use a UTF-8 locale, please.]
     */
         printf (_("\
-+---------------+\n\
-| Hello, world! |\n\
-+---------------+\n\
++------------------------------------+\n\
+| Hello, Destroyers of Planet Earth! |\n\
++------------------------------------+\n\
 "));
 
   else if (g == greet_user)
